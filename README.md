@@ -9,8 +9,8 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://gitlab.com/ccc109/co
 
-[Not.And.Or.Xor.Mux.DMux](https://github.com/Deng-James/HW/blob/main/HW1.md)
-[Not16.And16.Or16.Mux16.Or8Way.Mux4Way16.Mux8Way16.DMux4Way.Dmux8Way + 證明迪摩根定理](https://github.com/Deng-James/HW/blob/main/HW2.md)
+>[Not.And.Or.Xor.Mux.DMux](https://github.com/Deng-James/HW/blob/main/HW1.md)
+>[Not16.And16.Or16.Mux16.Or8Way.Mux4Way16.Mux8Way16.DMux4Way.Dmux8Way + 證明迪摩根定理](https://github.com/Deng-James/HW/blob/main/HW2.md)
 [HalfAdder.FullAdder.Add16.Inc16](https://github.com/Deng-James/HW/blob/main/HW3.md)
 [ALU-nostat.ALU](https://github.com/Deng-James/HW/blob/main/HW4.md)
 [DFF.Bit.Register](https://github.com/Deng-James/HW/blob/main/HW5.md)
