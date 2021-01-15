@@ -36,3 +36,7 @@
 [CPU.hdl](https://github.com/Deng-James/HW/blob/main/HW11.md)
 
 [Computer.hdl](https://github.com/Deng-James/HW/blob/main/HW12.md)
+
+[組譯器沒符號](https://github.com/Deng-James/HW/blob/main/%E4%BD%9C%E6%A5%AD14.md)
+
+[組譯器有符號](https://github.com/Deng-James/HW/blob/main/%E4%BD%9C%E6%A5%AD15.md)
