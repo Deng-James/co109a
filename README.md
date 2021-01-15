@@ -10,3 +10,13 @@
 課程內容 | https://gitlab.com/ccc109/co
 
 [Not.And.Or.Xor.Mux.DMux](https://github.com/Deng-James/HW/blob/main/HW1.md)
+[Not16.And16.Or16.Mux16.Or8Way.Mux4Way16.Mux8Way16.DMux4Way.Dmux8Way + 證明迪摩根定理](https://github.com/Deng-James/HW/blob/main/HW2.md)
+[HalfAdder.FullAdder.Add16.Inc16](https://github.com/Deng-James/HW/blob/main/HW3.md)
+[ALU-nostat.ALU](https://github.com/Deng-James/HW/blob/main/HW4.md)
+[DFF.Bit.Register](https://github.com/Deng-James/HW/blob/main/HW5.md)
+[RAM8.RAM64.RAM512.RAM4K.RAM16K](https://github.com/Deng-James/HW/blob/main/HW6.md)
+[HackCPU](https://github.com/Deng-James/HW/blob/main/HW7%E8%A3%9C.md)
+[PC](https://github.com/Deng-James/HW/blob/main/HW7.md)
+[組合語言](https://github.com/Deng-James/HW/blob/main/HW8%E8%A3%9C.md)
+[Mult.asm](https://github.com/Deng-James/HW/blob/main/HW8.md)
+[Fill.asm](https://github.com/Deng-James/HW/blob/main/HW9.md)
